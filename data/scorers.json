@@ -1,0 +1,142 @@
+[
+  {
+    "player": "Kylian Mbapp\u00e9",
+    "team": "France",
+    "goals": 6,
+    "assists": 2,
+    "penalties": null
+  },
+  {
+    "player": "Lionel Messi",
+    "team": "Argentina",
+    "goals": 6,
+    "assists": null,
+    "penalties": null
+  },
+  {
+    "player": "Erling Haaland",
+    "team": "Norway",
+    "goals": 5,
+    "assists": null,
+    "penalties": null
+  },
+  {
+    "player": "Vinicius Junior",
+    "team": "Brazil",
+    "goals": 4,
+    "assists": 1,
+    "penalties": null
+  },
+  {
+    "player": "Ousmane Demb\u00e9l\u00e9",
+    "team": "France",
+    "goals": 4,
+    "assists": 2,
+    "penalties": null
+  },
+  {
+    "player": "Juli\u00e1n Qui\u00f1ones",
+    "team": "Mexico",
+    "goals": 3,
+    "assists": 1,
+    "penalties": null
+  },
+  {
+    "player": "Ismael Saibari",
+    "team": "Morocco",
+    "goals": 3,
+    "assists": null,
+    "penalties": null
+  },
+  {
+    "player": "Kai Havertz",
+    "team": "Germany",
+    "goals": 3,
+    "assists": null,
+    "penalties": 1
+  },
+  {
+    "player": "Deniz Undav",
+    "team": "Germany",
+    "goals": 3,
+    "assists": 2,
+    "penalties": null
+  },
+  {
+    "player": "Elijah Just",
+    "team": "New Zealand",
+    "goals": 3,
+    "assists": null,
+    "penalties": null
+  },
+  {
+    "player": "Yoane Wissa",
+    "team": "Congo DR",
+    "goals": 3,
+    "assists": null,
+    "penalties": 1
+  },
+  {
+    "player": "Harry Kane",
+    "team": "England",
+    "goals": 3,
+    "assists": null,
+    "penalties": 1
+  },
+  {
+    "player": "Johan Manzambi",
+    "team": "Switzerland",
+    "goals": 3,
+    "assists": 1,
+    "penalties": null
+  },
+  {
+    "player": "Jonathan David",
+    "team": "Canada",
+    "goals": 3,
+    "assists": null,
+    "penalties": null
+  },
+  {
+    "player": "Matheus Cunha",
+    "team": "Brazil",
+    "goals": 3,
+    "assists": null,
+    "penalties": null
+  },
+  {
+    "player": "Brian Brobbey",
+    "team": "Netherlands",
+    "goals": 3,
+    "assists": null,
+    "penalties": null
+  },
+  {
+    "player": "Cody Gakpo",
+    "team": "Netherlands",
+    "goals": 3,
+    "assists": 1,
+    "penalties": null
+  },
+  {
+    "player": "Isma\u00efla Sarr",
+    "team": "Senegal",
+    "goals": 3,
+    "assists": 1,
+    "penalties": null
+  },
+  {
+    "player": "Ra\u00fal Jim\u00e9nez",
+    "team": "Mexico",
+    "goals": 2,
+    "assists": null,
+    "penalties": null
+  },
+  {
+    "player": "Cyle Larin",
+    "team": "Canada",
+    "goals": 2,
+    "assists": null,
+    "penalties": null
+  }
+]
