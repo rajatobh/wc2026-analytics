@@ -4,7 +4,9 @@ import chromadb
 from chromadb.utils import embedding_functions
 
 DATA_DIR = "data"
-EMBEDDINGS_DIR = "embeddings"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+EMBEDDINGS_DIR = os.path.join(BASE_DIR, "embeddings")
+DATA_DIR = os.path.join(BASE_DIR, "data")
 
 # Use ChromaDB's built-in sentence transformer
 embedding_fn = embedding_functions.SentenceTransformerEmbeddingFunction(

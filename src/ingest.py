@@ -76,7 +76,7 @@ def fetch_scorers() -> list[dict]:
 
 
 def save_data(data: list[dict], filename: str):
-    """Save fetched data to the data/ folder as JSON."""
+    """Save fetched data as JSON."""
     path = os.path.join("data", filename)
     with open(path, "w") as f:
         json.dump(data, f, indent=2)
